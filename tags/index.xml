@@ -5,10 +5,6 @@
     <link>https://charlescsr.github.io/euro-diaries-2020/tags/</link>
     <description>Recent content in Tags on The Euros 2020 by CSR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://charlescsr.github.io/euro-diaries-2020/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://charlescsr.github.io/euro-diaries-2020/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
